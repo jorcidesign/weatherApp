@@ -82,7 +82,7 @@ body {
 
 .weather {
   flex: 1; /* Se expandirá para llenar el espacio restante */
-  height: 80%; /* Ocupa toda la altura disponible */
+  height: 60%; 
   padding-top: 28px; /* Padding en la parte superior */
   padding-bottom: 28px; /* Padding en la parte inferior */
   display: flex; /* Distribuir contenido verticalmente */
